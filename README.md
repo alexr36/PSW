@@ -8,6 +8,8 @@ All files have been written using HTML, CSS and JS.
 
 All tasks with descriptions can be found in `Lists/` directory. Directories `ListXX/` contain solutions for the tasks.
 
+**Solutions to tasks that were performed as a group exercises can be found under the following link https://github.com/janicaleksander/web-technology-lecture.**
+
 ## Disclaimer
 This repository contains solution code written by me.
 
