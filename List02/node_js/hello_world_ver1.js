@@ -1,4 +1,4 @@
-// Run at localhost:8080
+// Run at https://localhost:8080
 var http = require('http');
 // file: hello_world.js
 // source: https://www.w3schools.com/nodejs/

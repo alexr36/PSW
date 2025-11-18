@@ -1,4 +1,4 @@
-// Run at localhost:3030
+// Run at https://localhost:3000
 const { createServer } = require('node:http');
 const hostname = '127.0.0.1';
 const port = 3000;
